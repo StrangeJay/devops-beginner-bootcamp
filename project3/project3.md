@@ -50,7 +50,7 @@ If you need more advanced load balancing methods (e.g., least connections, IP ha
 
 ## Documentation
 
-Please reference [**Project1**](https://github.com/oluseyianani/devops-bootcamp/blob/main/projects/project-1.md) for guidance on spinning up an Ubuntu server, as well as creating and associating an elastic IP address with your server, among other tasks.
+Please reference [**Project1**](https://github.com/StrangeJay/devops-beginner-bootcamp/blob/main/project1/project1.md) for guidance on spinning up an Ubuntu server, as well as creating and associating an elastic IP address with your server, among other tasks.
 
 - Spin up your 3 ubuntu servers. Ensure you clearly name them so you don't make mistakes.
 
@@ -233,7 +233,7 @@ Replace the necessary placeholders as shown in the picture above. Substitute `<s
 To make your website accessible via your domain name rather than the IP address, you'll need to set up a DNS record. I did this by buying my domain from Namecheap and then moving hosting to AWS Route 53, where I set up an A record.
 
 > [!NOTE]
-Visit [Project1](https://github.com/oluseyianani/devops-bootcamp/blob/main/projects/project-1.md) for instructions on how to create a hosted zone.
+Visit [Project1](https://github.com/StrangeJay/devops-beginner-bootcamp/blob/main/project1/project1.md) for instructions on how to create a hosted zone.
 
 - Point your domain's DNS records to the IP addresses of your Nginx load balancer server.
 
