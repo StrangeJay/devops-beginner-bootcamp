@@ -235,7 +235,7 @@ To make your website accessible via your domain name rather than the IP address,
 > [!NOTE]
 Visit [Project1](https://github.com/StrangeJay/devops-beginner-bootcamp/blob/main/project1/project1.md) for instructions on how to create a hosted zone.
 
-- Point your domain's DNS records to the IP addresses of your Nginx load balancer server.
+- Point your domain's A records to the IP address of your Nginx load balancer server.
 
 - In route 53, select the domain name and click on **Create record**.
 
