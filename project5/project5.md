@@ -184,6 +184,9 @@ Repeat this process until you've opened up all necessary ports.
 
 - Click on **Save rules** to apply the updated security group settings.
 
+> [!NOTE]
+Currently, the ports are being opened manually one at a time. However, in future projects, you'll learn how to automate these tasks, such as creating multiple instances and configuring all the security group rules at once using code. You'll explore this further when you work with Terraform.
+
 ---
 
 ### Setup Consul Server
