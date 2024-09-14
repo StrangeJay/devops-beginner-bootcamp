@@ -119,7 +119,7 @@ Please reference [**Project1**](https://github.com/StrangeJay/DevOpsMastery/blob
 
 ### Allow Required Ports In The Security Group
 
-The Consul service requires specific ports to function correctly. Please open the following ports in your security group.
+To ensure the proper functioning of the Consul service, please open the following ports in your security group and apply the same security group to all instances.
 
 ### Consul Servers
 
